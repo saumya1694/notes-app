@@ -4,7 +4,7 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. The app
 
 All notes are stored using localStorage, so the data remains saved even after refreshing or reopening the browser.
 
-🚀 Features
+🚀 Features:
 
 * Create new notes easily
 * Edit notes directly
@@ -18,17 +18,17 @@ All notes are stored using localStorage, so the data remains saved even after re
 * CSS
 * JavaScript
 
-🎯 How to Use
+🎯 How to Use:
 
 1. Write a note in the input field
 2. Click **Add Note** to save it
 3. Edit notes directly in the list
 4. Delete notes when finished
 
-🌐 Live Demo
+🌐 Live Demo:
 
 https://saumya1694.github.io/notes-app/
 
-💡 Learning Outcomes
+💡 Learning Outcomes:
 
 This project demonstrates important front-end concepts such as DOM manipulation, event handling, dynamic UI updates, and browser storage using localStorage.
