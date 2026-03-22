@@ -12,7 +12,7 @@ All notes are stored using localStorage, so the data remains saved even after re
 * Search notes quickly
 * Notes saved using localStorage
 
-🛠 Technologies Used
+🛠 Technologies Used:
 
 * HTML
 * CSS
